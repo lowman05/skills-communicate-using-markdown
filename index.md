@@ -12,4 +12,6 @@ Add 3 headings to visualize markdown
 var myVar = "Hello, world!";
 ```
 
-
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
