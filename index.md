@@ -7,3 +7,9 @@
 Add 3 headings to visualize markdown
 
 ![Headshot](https://github.com/lowman05/lowman05.github.io/blob/main/assets/headshot-gray-background.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+
